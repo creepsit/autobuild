@@ -1,4 +1,4 @@
-('C:\\Users\\thanhdauxuan\\Desktop\\hehe\\build\\set\\PYZ-00.pyz',
+('D:\\COMPSCI_STU\\PL\\Other\\buildproject\\build\\set\\PYZ-00.pyz',
  [('inspect', 'C:\\mingw\\lib\\python3.9\\inspect.py', 'PYMODULE'),
   ('importlib',
    'C:\\mingw\\lib\\python3.9\\importlib\\__init__.py',
@@ -435,8 +435,8 @@
   ('dis', 'C:\\mingw\\lib\\python3.9\\dis.py', 'PYMODULE'),
   ('opcode', 'C:\\mingw\\lib\\python3.9\\opcode.py', 'PYMODULE'),
   ('ast', 'C:\\mingw\\lib\\python3.9\\ast.py', 'PYMODULE'),
-  ('tracemalloc', 'C:\\mingw\\lib\\python3.9\\tracemalloc.py', 'PYMODULE'),
   ('stringprep', 'C:\\mingw\\lib\\python3.9\\stringprep.py', 'PYMODULE'),
   ('_py_abc', 'C:\\mingw\\lib\\python3.9\\_py_abc.py', 'PYMODULE'),
+  ('tracemalloc', 'C:\\mingw\\lib\\python3.9\\tracemalloc.py', 'PYMODULE'),
   ('os', 'C:\\mingw\\lib\\python3.9\\os.py', 'PYMODULE'),
   ('subprocess', 'C:\\mingw\\lib\\python3.9\\subprocess.py', 'PYMODULE')])
